@@ -1,0 +1,22 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "A learning project (Backend of an app that is combination of youtube and tweeter)for Backend JS Development",
+  "keywords": [
+    "Javascript",
+    "backend",
+    "node",
+    "js",
+    "express",
+    "JS",
+    "Backend",
+    "Developement"
+  ],
+  "license": "ISC",
+  "author": "Arijeet Panchotia",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
